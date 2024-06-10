@@ -1,0 +1,11 @@
+let programming = "Hello World";
+console.log(programming);
+programming = "Dive in coding river";
+console.log(programming);
+const myName = "Rimsha";
+console.log(myName);
+let strongTyping = "Strong Typing";
+console.log(strongTyping);
+let counting = 56;
+console.log(counting);
+export {};
